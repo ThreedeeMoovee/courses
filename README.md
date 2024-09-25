@@ -11,9 +11,8 @@
 - [Introduction to Western Philosophy](https://online.hillsdale.edu/courses/promo/introduction-to-western-philosophy)
 - [Introduction to Aristotle’s Ethics: How to Lead a Good Life](https://online.hillsdale.edu/courses/promo/aristotles-ethics)
 - [Theology 101: The Western Theological Tradition](https://online.hillsdale.edu/courses/promo/theology-101)
-### Politics
+### Politics & Economics
 - [Marxism, Socialism, and Communism](https://online.hillsdale.edu/courses/promo/marxism-socialism-communism)
-### Economics
 - [Economics 101: The Principles of Free Market Economics](https://online.hillsdale.edu/courses/promo/economics-101-the-principles-of-free-market-economics)
 ## YouTube Lectures
 ### TV Specials
