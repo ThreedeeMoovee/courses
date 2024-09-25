@@ -24,6 +24,7 @@
 - [Introduction to the Old Testament With Christine Hayes](https://youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&si=4AoiRBSYroi6ez-R)
 - [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&si=ZH9iWNpeurYJcxGA)
 - [Introduction to Ancient Greek History with Donald Kagan](https://youtube.com/playlist?list=PL023BCE5134243987&si=UkyafltPZcP2jTqh)
+- [Art History: ARTH2710 History of Art to the Renaissance](https://youtube.com/playlist?list=PLjxfpwtKvIlmbzrwkUuhVRI2X2V4t5QWE&si=Dn_AUiFJLFp3mEsJ) then [ARTH2720 History of Art From the Renaissance](https://youtube.com/playlist?list=PLjxfpwtKvIllqPSskUqvDDre1nTvrTrrf&si=IXZ6PS6dcJ1gX0fl)
 #### Peterson Lectures
 - [Peterson Lectures - Personality And Its Transformations](https://youtube.com/playlist?list=PLeHop5GfFXWzCUbD-KGYxYlfit4rZrrLc&si=6gRYuZdE5V2ZOb_e)
 - [Peterson Lectures - Maps Of Meaning](https://youtube.com/playlist?list=PLsvFdgT3ETgAVZWj0faD0sDJhJh2NeZwe&si=YKipjthLv6yAzmMB)
