@@ -22,6 +22,7 @@
 ### University Lectures
 - [History of Western Philosophy](https://youtube.com/playlist?list=PLNC1iSKYZgxUsCPVz3Qh8JnCzw-F2ZU2I&si=GJ0--KIXz2wWdA98)
 - [Introduction to the Old Testament With Christine Hayes](https://youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&si=4AoiRBSYroi6ez-R)
+- [New Testament History and Literature with Dale B. Martin](https://youtube.com/playlist?list=PL279CFA55C51E75E0&si=HPquQbQVUABJ4J5Y)
 - [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&si=ZH9iWNpeurYJcxGA)
 - [Introduction to Ancient Greek History with Donald Kagan](https://youtube.com/playlist?list=PL023BCE5134243987&si=UkyafltPZcP2jTqh)
 - [Art History: ARTH2710 History of Art to the Renaissance](https://youtube.com/playlist?list=PLjxfpwtKvIlmbzrwkUuhVRI2X2V4t5QWE&si=Dn_AUiFJLFp3mEsJ) then [ARTH2720 History of Art From the Renaissance](https://youtube.com/playlist?list=PLjxfpwtKvIllqPSskUqvDDre1nTvrTrrf&si=IXZ6PS6dcJ1gX0fl)
