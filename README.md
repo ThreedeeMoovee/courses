@@ -30,3 +30,7 @@
 - [Peterson Lectures - Personality And Its Transformations](https://youtube.com/playlist?list=PLeHop5GfFXWzCUbD-KGYxYlfit4rZrrLc&si=6gRYuZdE5V2ZOb_e)
 - [Peterson Lectures - Maps Of Meaning](https://youtube.com/playlist?list=PLsvFdgT3ETgAVZWj0faD0sDJhJh2NeZwe&si=YKipjthLv6yAzmMB)
 - [Peterson Lectures - Psychological Significance of the Biblical Stories](https://youtube.com/playlist?list=PLpQ3g2HCaXzjkCfAGYeBg6Z9r0fla2TTm&si=I2SjLoJ7EmT0qv36)
+
+## Peterson Acadamy
+- Intro To Psyscology with Dr. W. Keith Campbell
+- Plato The Dawn Of Thought with Dr. James Orr
