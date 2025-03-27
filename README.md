@@ -54,7 +54,7 @@
 - Genghis Khan (c. 1162–1227)
 - Richard the Lionheart (1157–1199)
 - Mehmed II (1432–1481)
-- Horatio Nelson, 1st Viscount Nelson (1758-1805)
+- Horatio Nelson (1758-1805)
 - Napoleon Bonaparte (1769–1821)
 - Abraham Lincoln (1809–1865)
 - Otto von Bismarck (1815–1898)
