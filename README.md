@@ -36,6 +36,7 @@
 
 ## Language
 - [Learning Ancient Greek - The Center for Hellenic Studies](https://chs.harvard.edu/learning-ancient-greek/)
+- German and or French
 
 ## Podcast
 - [The History Of Rome - Podcast By Mike Duncan](https://youtube.com/playlist?list=PLmhKTejvqnoOrQOcTY-pxN00BOZTGSWc3&si=Lnilr7veNCgcDth0)
