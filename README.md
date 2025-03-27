@@ -30,10 +30,6 @@
 - [Peterson Lectures - Maps Of Meaning](https://youtube.com/playlist?list=PLsvFdgT3ETgAVZWj0faD0sDJhJh2NeZwe&si=YKipjthLv6yAzmMB)
 - [Peterson Lectures - Psychological Significance of the Biblical Stories](https://youtube.com/playlist?list=PLpQ3g2HCaXzjkCfAGYeBg6Z9r0fla2TTm&si=I2SjLoJ7EmT0qv36)
 
-## Peterson Acadamy
-- Intro To Psyscology with Dr. W. Keith Campbell
-- Plato The Dawn Of Thought with Dr. James Orr
-
 ## Language
 - [Learning Ancient Greek - The Center for Hellenic Studies](https://chs.harvard.edu/learning-ancient-greek/)
 - German and or French
