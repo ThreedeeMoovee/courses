@@ -43,83 +43,24 @@
 
 ---
 
-# BOOKS ABOUT HISTORY & LEADERS
-Cyrus the Great (c. 600–530 BC)
-- Book: Cyropaedia by Xenophon (written c. 370 BC)
-- Book: Cyrus the Great by Jacob Abbott (1849, modern reprints)
-
-Themistocles (c. 524–459 BC)
-- Book: Histories by Herodotus (written c. 440 BC)
-- Book: Themistocles: The Powerbroker of Athens by Jeffrey Smith (2021)
-
-Alexander the Great (356–323 BC)
-- Book: The Anabasis of Alexander by Arrian (written c. AD 120–130)
-- Book: Alexander the Great by Robin Lane Fox (1973)
-
-Hannibal Barca (247–183 BC)
-- Book: The Histories by Polybius (written c. 167–146 BC)
-- Book: Hannibal by Patrick N. Hunt (2017)
-
-Julius Caesar (100–44 BC)
-- Book: Commentarii de Bello Gallico (The Gallic Wars) by Julius Caesar (written c. 50s BC)
-- Book: Caesar: Life of a Colossus by Adrian Goldsworthy (2006)
-
-Augustus (63 BC – AD 14)
-- Book: The Deeds of the Divine Augustus by Augustus (written c. AD 14)
-- Book: Augustus: The Life of Rome’s First Emperor by Anthony Everitt (2006)
-
-Constantine the Great (c. 272–337)
-- Book: Life of Constantine by Eusebius (written c. 337–339)
-- Book: Constantine: Roman Emperor, Christian Victor by Paul Stephenson (2010)
-
-Attila the Hun (c. 406–453)
-- Book: Getica by Jordanes (written c. 551)
-- Book: The End of Empire: Attila the Hun & the Fall of Rome by Christopher Kelly (2009)
-
-Charlemagne (c. 747–814)
-- Book: Vita Karoli Magni (Life of Charlemagne) by Einhard (written c. 817–830)
-- Book: Charlemagne by Johannes Fried (2016, trans. from German)
-
-Saladin (1137–1193)
-- Book: Rare and Excellent History of Saladin by Baha al-Din Ibn Shaddad (written c. 1190s–1210s)
-- Book: Saladin by Anne-Marie Eddé (2011, trans. from French)
-
-Genghis Khan (c. 1162–1227)
-- Book: The Secret History of the Mongols (anonymous, written c. 1240s)
-- Book: Genghis Khan and the Making of the Modern World by Jack Weatherford (2004)
-
-Richard the Lionheart (1157–1199)
-- Book: Itinerarium Peregrinorum et Gesta Regis Ricardi (anonymous, written c. 1190s–1220s)
-- Book: Richard the Lionheart: The Crusader King of England by W.B. Bartlett (2018)
-
-Mehmed II (1432–1481)
-- Book: The History of Mehmed the Conqueror by Tursun Beg (written c. 1480s)
-- Book: The Grand Turk: Sultan Mehmet II by John Freely (2009)
-
-Napoleon Bonaparte (1769–1821)
-- Book: Mémoires de Napoléon Bonaparte by Napoleon Bonaparte (written c. 1815–1821)
-- Book: Napoleon: A Life by Andrew Roberts (2014)
-
-Abraham Lincoln (1809–1865)
-- Book: The Life and Writings of Abraham Lincoln (compiled 1940)
-- Book: Team of Rivals: The Political Genius of Abraham Lincoln by Doris Kearns Goodwin (2005)
-
-Otto von Bismarck (1815–1898)
-- Book: Gedanken und Erinnerungen by Otto von Bismarck (published 1898)
-- Book: Bismarck: A Life by Jonathan Steinberg (2011)
-
-Winston Churchill (1874–1965)
-- Book: The Second World War by Winston Churchill (6 volumes, published 1948–1953)
-- Book: Churchill: Walking with Destiny by Andrew Roberts (2018)
-
-Joseph Stalin (1878–1953)
-- Book: Works by Joseph Stalin (13 volumes, published 1952–1955)
-- Book: Stalin: The Court of the Red Tsar by Simon Sebag Montefiore (2003)
-
-Franklin D. Roosevelt (1882–1945)
-- Book: FDR: His Personal Letters (edited by Elliott Roosevelt, published 1947–1950)
-- Book: FDR by Jean Edward Smith (2007)
-
-Adolf Hitler (1889–1945)
-- Book: Mein Kampf by Adolf Hitler (published 1925–1926)
-- Book: Hitler by Ian Kershaw (2 volumes: Hubris 1998, Nemesis 2000; abridged 2008)
+## BOOKS ABOUT HISTORY & LEADERS
+- Cyrus the Great (c. 600–530 BC)
+- Themistocles (c. 524–459 BC)
+- Pericles (c. 495-429 BC)
+- Alexander the Great (356–323 BC)
+- Hannibal Barca (247–183 BC)
+- Julius Caesar (100–44 BC)
+- Augustus (63 BC – AD 14)
+- Constantine the Great (c. 272–337)
+- Attila the Hun (c. 406–453)
+- Charlemagne (c. 747–814)
+- Saladin (1137–1193)
+- Genghis Khan (c. 1162–1227)
+- Richard the Lionheart (1157–1199)
+- Mehmed II (1432–1481)
+- Horatio Nelson, 1st Viscount Nelson (1758-1805)
+- Napoleon Bonaparte (1769–1821)
+- Abraham Lincoln (1809–1865)
+- Otto von Bismarck (1815–1898)
+- Winston Churchill (1874–1965)
+- Adolf Hitler (1889–1945)
