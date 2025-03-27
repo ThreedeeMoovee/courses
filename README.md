@@ -42,7 +42,7 @@
 
 ---
 
-## BOOKS ABOUT HISTORY & LEADERS
+## LEADERS THROUGH HISTORY
 - Cyrus the Great (c. 600–530 BC)
 - Themistocles (c. 524–459 BC)
 - Pericles (c. 495-429 BC)
