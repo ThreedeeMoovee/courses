@@ -36,27 +36,3 @@
 
 ## Podcast
 - [The History Of Rome - Podcast By Mike Duncan](https://youtube.com/playlist?list=PLmhKTejvqnoOrQOcTY-pxN00BOZTGSWc3&si=Lnilr7veNCgcDth0)
-
----
-
-## LEADERS THROUGH HISTORY
-- Cyrus the Great (c. 600–530 BC)
-- Themistocles (c. 524–459 BC)
-- Pericles (c. 495-429 BC)
-- Alexander the Great (356–323 BC)
-- Hannibal Barca (247–183 BC)
-- Julius Caesar (100–44 BC)
-- Augustus (63 BC – AD 14)
-- Constantine the Great (c. 272–337)
-- Attila the Hun (c. 406–453)
-- Charlemagne (c. 747–814)
-- Saladin (1137–1193)
-- Genghis Khan (c. 1162–1227)
-- Richard the Lionheart (1157–1199)
-- Mehmed II (1432–1481)
-- Horatio Nelson (1758-1805)
-- Napoleon Bonaparte (1769–1821)
-- Abraham Lincoln (1809–1865)
-- Otto von Bismarck (1815–1898)
-- Winston Churchill (1874–1965)
-- Adolf Hitler (1889–1945)
