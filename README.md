@@ -28,7 +28,7 @@
 - [Listening to Music with Craig Wright](https://youtube.com/playlist?list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja&si=Tn_dIghTbJOtkDst)
 #### Peterson Lectures
 - [Peterson Lectures - Personality And Its Transformations](https://youtube.com/playlist?list=PLeHop5GfFXWzCUbD-KGYxYlfit4rZrrLc&si=6gRYuZdE5V2ZOb_e)
-- [Peterson Lectures - Maps Of Meaning](https://youtube.com/playlist?list=PLsvFdgT3ETgAVZWj0faD0sDJhJh2NeZwe&si=YKipjthLv6yAzmMB)
+- [Peterson Lectures - Maps Of Meaning - 2017](https://youtube.com/playlist?list=PLsvFdgT3ETgAVZWj0faD0sDJhJh2NeZwe&si=YKipjthLv6yAzmMB) and [Maps Of Meaning: Harvard Lectures](https://youtube.com/playlist?list=PLwsUUbHRtgzAPxiHRDp37tZl9rDrQSs6C&si=wRi4wiy3L-P60TWl)
 - [Peterson Lectures - Psychological Significance of the Biblical Stories](https://youtube.com/playlist?list=PLpQ3g2HCaXzjkCfAGYeBg6Z9r0fla2TTm&si=I2SjLoJ7EmT0qv36)
 
 ## Language
