@@ -19,6 +19,7 @@
 - [Civilisation by Kenneth Clark](https://youtube.com/playlist?list=PL2JFIsCzvZsyPG_EQso-_Ehc4-YzFVbR0&si=7MAkSGqEhVQUUp91)
 - [The Western Tradition (1989) - Remastered](https://youtube.com/playlist?list=PLFZ8SdZBZEi_9MYnPrC04KxBPkIWZx5a-&si=kwffyzhlIB-5xBma)
 - [Joseph Campbell and the Power of Myth](https://youtube.com/playlist?list=PLiYnNom7SVRMjsi2WSpIGBlo1UDhlXyvz&si=NZN2AmRWIJ7astC3)
+- [The World's Religions by Huston Smith Lecture](https://youtube.com/playlist?list=PL30RAv-0lkxFgnNXl9bqkhAZozMa117me&si=11xtUgfx8mImqcK9)
 ### University Lectures
 - [History of Western Philosophy](https://youtube.com/playlist?list=PLNC1iSKYZgxUsCPVz3Qh8JnCzw-F2ZU2I&si=GJ0--KIXz2wWdA98)
 - [Introduction to the Old Testament With Christine Hayes](https://youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&si=4AoiRBSYroi6ez-R)
