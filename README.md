@@ -5,15 +5,14 @@
 - [Athens and Sparta](https://online.hillsdale.edu/courses/promo/athens-and-sparta)
 - [Ancient Christianity](https://online.hillsdale.edu/courses/promo/ancient-christianity)
 - [The Rise and Fall of the Roman Republic](https://online.hillsdale.edu/courses/promo/the-rise-and-fall-of-the-roman-republic)
-- [The Second World Wars](https://online.hillsdale.edu/courses/promo/the-second-world-wars)
 ### Philosophy & Religion
 - [Western Heritage: From the Book of Genesis to John Locke](https://online.hillsdale.edu/courses/promo/western-heritage)
 - [Introduction to Western Philosophy](https://online.hillsdale.edu/courses/promo/introduction-to-western-philosophy)
-- [Introduction to Aristotle’s Ethics: How to Lead a Good Life](https://online.hillsdale.edu/courses/promo/aristotles-ethics)
 - [Theology 101: The Western Theological Tradition](https://online.hillsdale.edu/courses/promo/theology-101)
 ### Politics & Economics
-- [Marxism, Socialism, and Communism](https://online.hillsdale.edu/courses/promo/marxism-socialism-communism)
 - [Economics 101: The Principles of Free Market Economics](https://online.hillsdale.edu/courses/promo/economics-101-the-principles-of-free-market-economics)
+- [Supply-Side Economics and American Prosperity with Arthur Laffer](https://online.hillsdale.edu/courses/promo/supply-side-economics)
+- [Understanding Capitalism](https://online.hillsdale.edu/courses/promo/capitalism)
 ## YouTube Lectures
 ### TV Specials
 - [Civilisation by Kenneth Clark](https://youtube.com/playlist?list=PL2JFIsCzvZsyPG_EQso-_Ehc4-YzFVbR0&si=7MAkSGqEhVQUUp91)
@@ -28,12 +27,12 @@
 - [Listening to Music with Craig Wright](https://youtube.com/playlist?list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja&si=Tn_dIghTbJOtkDst)
 #### Peterson Lectures
 - [Peterson Lectures - Personality And Its Transformations](https://youtube.com/playlist?list=PLeHop5GfFXWzCUbD-KGYxYlfit4rZrrLc&si=6gRYuZdE5V2ZOb_e)
-- [Peterson Lectures - Maps Of Meaning - 2017](https://youtube.com/playlist?list=PLsvFdgT3ETgAVZWj0faD0sDJhJh2NeZwe&si=YKipjthLv6yAzmMB) and [Maps Of Meaning: Harvard Lectures](https://youtube.com/playlist?list=PLwsUUbHRtgzAPxiHRDp37tZl9rDrQSs6C&si=wRi4wiy3L-P60TWl)
+- [Peterson Lectures - Maps Of Meaning 2017](https://youtube.com/playlist?list=PLsvFdgT3ETgAVZWj0faD0sDJhJh2NeZwe&si=YKipjthLv6yAzmMB) and [Maps Of Meaning - Harvard Lectures](https://youtube.com/playlist?list=PLwsUUbHRtgzAPxiHRDp37tZl9rDrQSs6C&si=wRi4wiy3L-P60TWl)
 - [Peterson Lectures - Psychological Significance of the Biblical Stories](https://youtube.com/playlist?list=PLpQ3g2HCaXzjkCfAGYeBg6Z9r0fla2TTm&si=I2SjLoJ7EmT0qv36)
 
 ## Language
-- [Learning Ancient Greek - The Center for Hellenic Studies](https://chs.harvard.edu/learning-ancient-greek/)
-- German and or French
+- The German Language - [Text book](https://mercaba.org/SANLUIS/IDIOMAS/Alem%C3%A1n/Basic%20german.pdf)
+- The French Language - [Text book](https://bonjourmoni.wordpress.com/wp-content/uploads/2016/04/modern-french-grammar-a-practical-guide.pdf)
 
 ## Podcast
 - [The History Of Rome - Podcast By Mike Duncan](https://youtube.com/playlist?list=PLmhKTejvqnoOrQOcTY-pxN00BOZTGSWc3&si=Lnilr7veNCgcDth0)
