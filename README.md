@@ -50,7 +50,8 @@
 - [The Strenuous Life by Theodore Roosevelt](https://www.gutenberg.org/cache/epub/58821/pg58821-images.html) - Speeches & Essays
 
 ## The Age Of Extremes (1914-1991)
-- [The Russian Revolution and Civil War - BBC - Complete Series](https://youtube.com/playlist?list=PL3H6z037pboFwKREwWrf4ELNDdiTLyhAN&si=GjhOYf15GuxyeFva) and the book "History Of The Russian Revolution" by Leon Trotsky
+- [The Russian Revolution and Civil War - BBC - Complete Series](https://youtube.com/playlist?list=PL3H6z037pboFwKREwWrf4ELNDdiTLyhAN&si=GjhOYf15GuxyeFva)
+  - and the book "History Of The Russian Revolution" by Leon Trotsky
 - [World War 1 - The Great War (Enhanced 1964 BBC Documentary)](https://youtube.com/playlist?list=PLucsO-7vMQ00twBJvRZKs1KNUKUVClo6C&si=-fZkdg0AA-gonogu) and the book "The World Crisis Book" by Winston Churchill
 - [The Story of the Third Reich](https://youtube.com/playlist?list=PLD737B110EB3D6655&si=qwgU4hAoi44SBNDV) and the book "The Rise and Fall of the Third Reich" by William L. Shirer
 - [World War 2 - World War 2: The Complete History (2000)](https://youtube.com/playlist?list=PLAW0nd_VascsiGcPh_25j97VSgZNfziH7&si=FhIX4Dd6fx8S3WIj) and the book series "The Second World War" by Winston Churchill
