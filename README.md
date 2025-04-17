@@ -36,3 +36,13 @@
 
 ## Podcast
 - [The History Of Rome - Podcast By Mike Duncan](https://youtube.com/playlist?list=PLmhKTejvqnoOrQOcTY-pxN00BOZTGSWc3&si=Lnilr7veNCgcDth0)
+
+## Great Leaders Of The 20th Century
+### Winston Churchill
+- [Winston Churchill and Statesmanship](https://online.hillsdale.edu/courses/promo/winston-churchill-and-statesmanship) - Hillsdale Collage Course
+- [American National Churchill Museum: Winston Churchill's Speeches and Writings](https://www.nationalchurchillmuseum.org/winston-churchills-speeches.html) - Written Speeches
+
+### Theodore Roosevelt
+- ["The Rise of Theodore Roosevelt" by Edmund Morris](https://www.amazon.com.au/dp/0812958632?ref_=mr_direct_us_au_au&showmri) - Book Trilogy
+- [“The Roosevelts: An Intimate History” by Ken Burns](https://www.pbs.org/kenburns/the-roosevelts) - Documentary
+- [The Strenuous Life by Theodore Roosevelt](https://www.gutenberg.org/cache/epub/58821/pg58821-images.html) - Speeches & Essays
