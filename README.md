@@ -50,9 +50,9 @@
 - [The Strenuous Life by Theodore Roosevelt](https://www.gutenberg.org/cache/epub/58821/pg58821-images.html) - Speeches & Essays
 
 ## The Age Of Extremes (1914-1991)
-- [The Russian Revolution and Civil War - BBC - Complete Series](https://youtube.com/playlist?list=PL3H6z037pboFwKREwWrf4ELNDdiTLyhAN&si=GjhOYf15GuxyeFva) & the book "History Of The Russian Revolution" by Leon Trotsky
-- [World War 1 - The Great War (Enhanced 1964 BBC Documentary)](https://youtube.com/playlist?list=PLucsO-7vMQ00twBJvRZKs1KNUKUVClo6C&si=-fZkdg0AA-gonogu)
-- [The Story of the Third Reich](https://youtube.com/playlist?list=PLD737B110EB3D6655&si=qwgU4hAoi44SBNDV)
-- [World War 2 - World War 2: The Complete History (2000)](https://youtube.com/playlist?list=PLAW0nd_VascsiGcPh_25j97VSgZNfziH7&si=FhIX4Dd6fx8S3WIj)
-- [Russia 1985–1999: TraumaZone, BBC](https://youtube.com/playlist?list=PLSjQL8MYniTTLA3wnZ25U-s6RgR4uJNvL&si=BOzM61e_1__gVb1a)
-- [The Cold War (1998, CNN documentary)](https://youtube.com/playlist?list=PL_qdjF8M78xrOrRhINQ2XlsczecBk-QT4&si=eIhmYwQS0UXRpRrK)
+- [The Russian Revolution and Civil War - BBC - Complete Series](https://youtube.com/playlist?list=PL3H6z037pboFwKREwWrf4ELNDdiTLyhAN&si=GjhOYf15GuxyeFva) and the book "History Of The Russian Revolution" by Leon Trotsky
+- [World War 1 - The Great War (Enhanced 1964 BBC Documentary)](https://youtube.com/playlist?list=PLucsO-7vMQ00twBJvRZKs1KNUKUVClo6C&si=-fZkdg0AA-gonogu) and the book "The World Crisis Book" by Winston Churchill
+- [The Story of the Third Reich](https://youtube.com/playlist?list=PLD737B110EB3D6655&si=qwgU4hAoi44SBNDV) and the book "The Rise and Fall of the Third Reich" by William L. Shirer
+- [World War 2 - World War 2: The Complete History (2000)](https://youtube.com/playlist?list=PLAW0nd_VascsiGcPh_25j97VSgZNfziH7&si=FhIX4Dd6fx8S3WIj) and the book series "The Second World War" by Winston Churchill
+- [The Cold War (1998, CNN documentary)](https://youtube.com/playlist?list=PL_qdjF8M78xrOrRhINQ2XlsczecBk-QT4&si=eIhmYwQS0UXRpRrK) and the book "The Cold War" by Odd Arne Westad
+- [Russia 1985–1999: TraumaZone, BBC](https://youtube.com/playlist?list=PLSjQL8MYniTTLA3wnZ25U-s6RgR4uJNvL&si=BOzM61e_1__gVb1a) and the book "Collapse: The Fall of the Soviet Union" by Michael Rawson and Vladislav M. Zubok
